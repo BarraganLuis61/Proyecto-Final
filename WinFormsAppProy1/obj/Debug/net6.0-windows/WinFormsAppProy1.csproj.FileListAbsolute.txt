@@ -1,0 +1,463 @@
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.exe
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.deps.json
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.runtimeconfig.json
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form1.resources
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.FormIngreso.resources
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form3.resources
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Properties.Resources.resources
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.GenerateResource.cache
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfoInputs.cache
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfo.cs
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.CoreCompileInputs.cache
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\refint\WinFormsAppProy1.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.genruntimeconfig.cache
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\ref\WinFormsAppProy1.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.exe
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.deps.json
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.runtimeconfig.json
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form1.resources
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.FormIngreso.resources
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form3.resources
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Properties.Resources.resources
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.GenerateResource.cache
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfoInputs.cache
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfo.cs
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.CoreCompileInputs.cache
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\refint\WinFormsAppProy1.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.genruntimeconfig.cache
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\ref\WinFormsAppProy1.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form4.resources
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.AssemblyReference.cache
+C:\Users\obedj\Downloads\Progra II\Practicas_C#\OtroVisual\Semana 2\Proyecto F\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinForms.4C922877.Up2Date
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.exe
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.deps.json
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.runtimeconfig.json
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.AssemblyReference.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form1.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.FormIngreso.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form3.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form4.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Properties.Resources.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.GenerateResource.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfoInputs.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfo.cs
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.CoreCompileInputs.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.sourcelink.json
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinForms.4C922877.Up2Date
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\refint\WinFormsAppProy1.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.genruntimeconfig.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\ref\WinFormsAppProy1.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Form2.resx
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form5.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.exe
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Form2.resx
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.deps.json
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.runtimeconfig.json
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.AssemblyReference.cache
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form1.resources
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.FormIngreso.resources
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form3.resources
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form4.resources
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form5.resources
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Properties.Resources.resources
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.GenerateResource.cache
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfoInputs.cache
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfo.cs
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.CoreCompileInputs.cache
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.sourcelink.json
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinForms.4C922877.Up2Date
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\refint\WinFormsAppProy1.dll
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.genruntimeconfig.cache
+C:\Users\obedj\Downloads\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\ref\WinFormsAppProy1.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.exe
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Form2.resx
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.deps.json
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.runtimeconfig.json
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.AssemblyReference.cache
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form1.resources
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.FormIngreso.resources
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form3.resources
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form4.resources
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form5.resources
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Properties.Resources.resources
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.GenerateResource.cache
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.sourcelink.json
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinForms.4C922877.Up2Date
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\refint\WinFormsAppProy1.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.genruntimeconfig.cache
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\ref\WinFormsAppProy1.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.GRAFICA.resources
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.AssemblyReference.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form1.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.FormIngreso.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form3.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form4.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form5.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.GRAFICA.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Properties.Resources.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.GenerateResource.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfoInputs.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfo.cs
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.CoreCompileInputs.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.sourcelink.json
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\refint\WinFormsAppProy1.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.exe
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Form2.resx
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.deps.json
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.runtimeconfig.json
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinForms.4C922877.Up2Date
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.genruntimeconfig.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal++\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\ref\WinFormsAppProy1.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.AssemblyReference.cache
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form1.resources
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.FormIngreso.resources
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form3.resources
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form4.resources
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form5.resources
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Properties.Resources.resources
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.GenerateResource.cache
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfoInputs.cache
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfo.cs
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.sourcelink.json
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\refint\WinFormsAppProy1.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form6.resources
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.exe
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Form2.resx
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.deps.json
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.runtimeconfig.json
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinForms.4C922877.Up2Date
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.genruntimeconfig.cache
+C:\Users\ANGEL\Desktop\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\ref\WinFormsAppProy1.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.exe
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Form2.resx
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.deps.json
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.runtimeconfig.json
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.AssemblyReference.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form1.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.FormIngreso.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form3.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form4.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form5.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Form6.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.Properties.Resources.resources
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.GenerateResource.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfoInputs.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.AssemblyInfo.cs
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.csproj.CoreCompileInputs.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.sourcelink.json
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinForms.4C922877.Up2Date
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\refint\WinFormsAppProy1.dll
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.pdb
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\WinFormsAppProy1.genruntimeconfig.cache
+C:\Users\luis_\OneDrive\Documentos\Programación II\ProyectoFinal\ProyectoFinal\ProyectoFinal\WinFormsAppProy1\WinFormsAppProy1\obj\Debug\net6.0-windows\ref\WinFormsAppProy1.dll
